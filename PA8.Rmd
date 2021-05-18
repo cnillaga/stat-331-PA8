@@ -1,6 +1,6 @@
 ---
 title: "Practice Activity 8"
-author: "Stephanie Calloway"
+author: "Stephanie Calloway Cesar Nillaga Hannah Clarke"
 date: "5/18/2021"
 output: html_document
 ---
