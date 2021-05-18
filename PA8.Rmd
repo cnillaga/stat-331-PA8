@@ -1,6 +1,10 @@
 ---
 title: "Practice Activity 8"
+<<<<<<< HEAD
 author: "Stephanie Calloway Cesar Nillaga Hannah Clarke"
+=======
+author: "Stephanie, Hannah, Cesar"
+>>>>>>> 36fec99a45ee3f842da98c72a9bd2eacefabe335
 date: "5/18/2021"
 output: html_document
 ---
